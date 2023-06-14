@@ -1,1 +1,1 @@
-# AI-MAILs-2022
+# AI-MAILs
