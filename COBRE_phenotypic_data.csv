@@ -1,4 +1,4 @@
-ID,Current Age,Gender,Handedness,Subject Type,Diagnosis
+ID,Age,Gender,Handedness,Subject_Type,Diagnosis
 0040061,18,Male,Right,Control,None
 0040090,18,Female,Right,Control,None
 0040046,18,Male,Left,Patient,295.70 depressed type
