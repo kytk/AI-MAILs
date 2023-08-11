@@ -145,5 +145,3 @@ ID,Age,Gender,Handedness,Subject_Type,Diagnosis
 0040028,64,Male,Right,Patient,295.3
 0040086,65,Male,Right,Control,None
 0040007,65,Female,Right,Patient,295.3
-0040083,Disenrolled,Disenrolled,Disenrolled,Disenrolled,Disenrolled
-0040070,Disenrolled,Disenrolled,Disenrolled,Disenrolled,Disenrolled
