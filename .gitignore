@@ -1,3 +1,4 @@
-*.xlsx
-*.csv
+diabetes*.xlsx
+breast*.xlsx
+student_scores.csv
 
